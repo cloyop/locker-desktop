@@ -1,0 +1,5 @@
+{
+  "gmail": { "key": "anykey", "value": "value" },
+  "github": { "key": "keyany", "value": "value" },
+  "linkedin": { "key": "anykey", "value": "value" }
+}
