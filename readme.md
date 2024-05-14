@@ -2,7 +2,7 @@
 
 ## small app to store your password in safe
 - copy, build and use. it will get u through initialization.
-- make sure to have your system dependecies []
+- make sure to have your system  [Dependecies](https://docs.fyne.io/started/)
 - leave me your star
 ---
 ### after this quick path things u can go 
